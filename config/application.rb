@@ -9,7 +9,11 @@ if defined?(Bundler)
   # Bundler.require(:default, :assets, Rails.env)
 end
 
+<<<<<<< HEAD
 module Testheroku
+=======
+module FirstApp
+>>>>>>> b662dddcb090a4dfef5d38e403b634e6d3c3c4e9
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers

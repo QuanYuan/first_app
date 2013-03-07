@@ -4,4 +4,8 @@
 
 require File.expand_path('../config/application', __FILE__)
 
+<<<<<<< HEAD
 Testheroku::Application.load_tasks
+=======
+FirstApp::Application.load_tasks
+>>>>>>> b662dddcb090a4dfef5d38e403b634e6d3c3c4e9

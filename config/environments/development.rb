@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Testheroku::Application.configure do
+=======
+FirstApp::Application.configure do
+>>>>>>> b662dddcb090a4dfef5d38e403b634e6d3c3c4e9
   # Settings specified here will take precedence over those in config/application.rb
 
   # In the development environment your application's code is reloaded on

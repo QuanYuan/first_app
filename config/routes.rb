@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Testheroku::Application.routes.draw do
+=======
+FirstApp::Application.routes.draw do
+>>>>>>> b662dddcb090a4dfef5d38e403b634e6d3c3c4e9
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
